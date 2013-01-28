@@ -5,4 +5,3 @@ Lato client:
 
 Lato server:
 - node.js
-- 
